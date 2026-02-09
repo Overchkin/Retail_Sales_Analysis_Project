@@ -162,4 +162,4 @@ streamlit run app/streamlit_app.py
 ## 📌 Auteur
 
 **Israël – Software Engineer & Data Scientist/IA**
-Portfolio et projets Data Science / Full-Stack
+
